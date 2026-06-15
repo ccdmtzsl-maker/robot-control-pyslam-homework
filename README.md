@@ -2,7 +2,7 @@
 
 ## 代码说明
 
-本仓库为课程大作业复现材料仓库。由于 pySLAM 原项目包含大量第三方模块、编译文件和依赖库，因此本仓库不直接上传完整原始工程，而是提供复现过程中使用的运行脚本、配置说明、运行日志、截图、演示视频和实验报告。
+本仓库为课程大作业复现材料仓库。由于 pySLAM 原项目包含大量第三方模块、编译文件和依赖库，因此本仓库不直接上传完整原始工程，而是提供复现过程中使用的运行脚本、配置说明、运行日志。
 
 原始开源项目地址：
 
@@ -22,7 +22,7 @@ scripts/run_pyslam_vo.sh
 
 ## 1. 项目简介
 
-本仓库为《机器人控制技术》课程大作业提交材料，主要复现开源项目 pySLAM 中的视觉里程计（Visual Odometry）示例程序。
+复现开源项目 pySLAM 中的视觉里程计（Visual Odometry）示例程序。
 
 原始项目地址：
 
@@ -73,9 +73,6 @@ bash scripts/run_pyslam_vo.sh
 README.md                  项目说明
 scripts/run_pyslam_vo.sh   运行脚本
 run_main_vo_log.txt        运行日志
-report.pdf                 大作业报告
-demo_video.mp4             演示视频
-screenshots/               运行截图
 ```
 
 ## 6. 复现过程中遇到的问题
